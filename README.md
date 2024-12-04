@@ -7,7 +7,6 @@ Je suis Fathima Ouahhoud et je suis étudiante à la plateforme, passionnée par
 
 
 ## 📂 Projets
-### Mes projets les plus notables :
 - [**Projet 1**](lien) : Description du projet.  
 - [**Projet 2**](lien) : Description du projet.  
 - [**Projet 3**](lien) : Description du projet.  
